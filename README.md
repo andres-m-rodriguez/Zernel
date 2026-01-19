@@ -1,5 +1,8 @@
 # Zernel
 
+# *WARNING* this project currently will not be maintained, the author is focused on ai based projects and research like https://github.com/andres-m-rodriguez/Grigori and https://github.com/andres-m-rodriguez/zbpe the project will later on be continued but for now it will remain stale
+
+
 Zernel is a hobby OS kernel written in Zig. The goal? Boot into a TUI file browser with a custom filesystem that persists to disk. No more, no less. When I can navigate files with arrow keys in my own operating system, this project is done and I can mass-allocate new problems for myself.
 
 ## The Vision
